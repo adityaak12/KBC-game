@@ -2,7 +2,7 @@ import random
 
 print("selact number in between 1 to 100")
 
-number = random.randint(1,100)
+number = random.randint(1,101)
 attempts = 0
 
 while True:
